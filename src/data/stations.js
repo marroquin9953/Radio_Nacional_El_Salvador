@@ -1,6 +1,6 @@
 export const stationList = [
     {
-        img: 'https://s3.amazonaws.com/cdn.radionewproject.com/b0b93cb5a5a0fc86484c3dde62c4d9d8.jpg',
+        img: '/stations/Radio ABC 100.1 FM.jpg',
         name: 'Radio ABC 100.1 FM',
         url: 'https://streaming.rcs.com.sv/8008/stream',
     },
