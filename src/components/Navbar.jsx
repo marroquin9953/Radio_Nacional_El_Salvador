@@ -4,15 +4,15 @@ const Navbar = () => {
     return (
         <nav className="navbar">
             <div>
-                <h2>വീചിക</h2>
-                <p className="app-subtitle">Online Malayalam Radio</p>
+                <h2>El Salvador</h2>
+                <p className="app-subtitle">Desarrollado por Isidro Marroquin</p>
             </div>
             <a
                 href="https://bit.ly/veechika"
                 target="_blank"
                 rel="noopener noreferrer"
             >
-                Feedback
+                Telegram
             </a>
         </nav>
     );
