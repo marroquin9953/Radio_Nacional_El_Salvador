@@ -52,7 +52,7 @@ export const stationList = [
     {
         img: 'https://s3.amazonaws.com/cdn.radionewproject.com/814b0171617612cd35be9b6aeea5e545.jpg',
         name: 'YXY 105.7 FM',
-        url: 'http://158.69.200.1:8020/start',
+        url: 'https://yxy.watahosting.com/radio/8020/radio.mp3',
     },
     {
         img: '/stations/airnew.jpg',
