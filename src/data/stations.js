@@ -7,7 +7,7 @@ export const stationList = [
     {
         img: 'https://s3.amazonaws.com/cdn.radionewproject.com/5022c6b3aac2546bdb65ca3209078a61.jpg',
         name: 'Scan 96.1 FM',
-        url: 'http://158.69.200.1:8022/start',
+        url: 'https://scan.watahosting.com/radio/8022/radio.mp3',
     },
     {
         img: 'https://s3.amazonaws.com/cdn.radionewproject.com/f522f60ef27b6593e8d03be1e4944dac.jpg',
