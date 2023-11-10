@@ -1,0 +1,52 @@
+:root {
+    --color-primary: #fff;
+    --color-accent: #ffb700;
+    --bg-gradient: linear-gradient(to right, #1e2025, #212328);
+}
+
+body {
+    background: var(--bg-gradient);
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    color: #fff;
+}
+
+button {
+    background: none;
+    border: none;
+    color: var(--color-accent);
+    border: solid 1px var(--color-accent);
+}
+
+[class^='icon-'],
+[class*=' icon-'] {
+    line-height: 2 !important;
+}
+
+.icon-play {
+    margin-right: -7%;
+}
+
+.app {
+    /* padding: 1rem 1.5rem; */
+}
+
+.icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+}
+
+video {
+    width: 0;
+    height: 0;
+    display: none;
+}

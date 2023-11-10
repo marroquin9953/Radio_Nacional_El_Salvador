@@ -1,0 +1,48 @@
+.radio-player {
+    position: sticky;
+    bottom: 0;
+
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+
+    padding: 1.5rem 1.5rem 1rem;
+    background: rgba(35, 35, 35, 0.6);
+    backdrop-filter: saturate(180%) blur(25px);
+    border-radius: 1rem 1rem 0 0;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px -4px 55px,
+        rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+        rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+    animation: player-in 0.8s ease;
+}
+
+.song-img {
+    width: 5rem;
+    height: 5rem;
+    border-radius: 8px;
+}
+
+.song-name {
+    flex-grow: 1;
+    flex-shrink: 1;
+    font-size: 1.2rem;
+}
+
+.btn-player {
+    width: 60px;
+    height: 60px;
+    min-width: 60px;
+    font-size: 30px;
+    border-radius: 50%;
+}
+
+@keyframes player-in {
+    from {
+        bottom: -100%;
+    }
+
+    to {
+        bottom: 0;
+    }
+}

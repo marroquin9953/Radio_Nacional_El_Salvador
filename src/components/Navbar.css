@@ -1,0 +1,15 @@
+.navbar {
+    background: var(--bg-gradient);
+    padding: 1rem 1.5rem 1.5rem;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    box-shadow: rgb(24 27 30 / 86%) 0px 20px 30px -10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.app-subtitle {
+    color: var(--color-accent);
+}
