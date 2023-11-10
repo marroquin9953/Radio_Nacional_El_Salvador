@@ -27,7 +27,7 @@ export const stationList = [
     {
         img: 'https://s3.amazonaws.com/cdn.radionewproject.com/70034c04eba40653c9120895126eee94.jpg',
         name: 'FM Globo 93.3',
-        url: 'http://158.69.219.162:8026/;',
+        url: 'http://158.69.219.162:8026/stream/;',
     },
     {
         img: 'https://s3.amazonaws.com/cdn.radionewproject.com/33ed288e44b400da8f5964ee5ade34e9.jpg',
