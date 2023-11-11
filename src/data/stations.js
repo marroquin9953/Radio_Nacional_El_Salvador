@@ -47,7 +47,7 @@ export const stationList = [
     {
         img: 'https://s3.amazonaws.com/cdn.radionewproject.com/9bf3fe7f65a5e10c1f3084c81b695fb5.jpg',
         name: 'Radio Club 92.5 FM',
-        url: 'http://158.69.200.1:8030/stream/;',
+        url: 'https://club.watahosting.com/radio/8030/radio.mp3',
     },
     {
         img: 'https://s3.amazonaws.com/cdn.radionewproject.com/814b0171617612cd35be9b6aeea5e545.jpg',
