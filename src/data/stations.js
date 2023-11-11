@@ -137,6 +137,6 @@ export const stationList = [
     {
         img: 'https://s3.amazonaws.com/cdn.radionewproject.com/809e9b890573d1be1eb87fdbbedd525d.jpg',
         name: 'Radio Restauración 100.5 FM',
-        url: 'http://cdn-radio.elim.org.sv:8007/mp3_128',
+        url: 'https://ssl.rockhost.com/proxy/restauracion?mp=/mp3_320',
     },
 ];
