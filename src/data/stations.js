@@ -82,7 +82,7 @@ export const stationList = [
     {
         img: 'https://s3.amazonaws.com/cdn.radionewproject.com/e94572d12c59f726a9e4fa231fff391a.jpg',
         name: 'Exa FM 91.3',
-        url: 'http://158.69.219.162:8028/stream/;',
+        url: 'https://exa.watahosting.com/radio/8028/radio.mp3',
     },
     {
         img: 'https://s3.amazonaws.com/cdn.radionewproject.com/85b77238278d3881205d4c0556f93351.jpg',
