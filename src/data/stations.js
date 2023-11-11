@@ -77,7 +77,7 @@ export const stationList = [
     {
         img: 'https://s3.amazonaws.com/cdn.radionewproject.com/d5077faee8fbe7a0b8da2d3a1162eac2.jpg',
         name: 'La Mejor 98.9 FM',
-        url: 'http://158.69.219.162:8024/start',
+        url: 'https://mejor.watahosting.com/radio/8024/radio.mp3',
     },
     {
         img: 'https://s3.amazonaws.com/cdn.radionewproject.com/e94572d12c59f726a9e4fa231fff391a.jpg',
