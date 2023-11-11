@@ -125,11 +125,6 @@ export const stationList = [
         url: 'https://radio.playerfullhd.com/8104/stream',
     },
     {
-        img: 'https://s3.amazonaws.com/cdn.radionewproject.com/5172edb3525e180eb0314c1a9180f6bd.jpg',
-        name: 'Radio Exitos 105.3 FM',
-        url: 'http://centova1.creativos10.com:8024/live',
-    },
-    {
         img: 'https://s3.amazonaws.com/cdn.radionewproject.com/0e402aa6958b94c10be080b9b2993cb2.jpg',
         name: 'Plus 101.3 FM',
         url: 'http://media.dominiocreativo.com:9006/;',
